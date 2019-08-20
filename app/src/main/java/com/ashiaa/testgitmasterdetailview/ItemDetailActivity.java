@@ -23,6 +23,8 @@ import android.view.MenuItem;
  */
 public class ItemDetailActivity extends AppCompatActivity {
 
+    //this is branch1
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
