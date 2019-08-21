@@ -1,3 +1,3 @@
 # TestGitMasterDetailView
 initial commit test
-this is branch3
+this is mater branch
